@@ -18,6 +18,8 @@ Android application to exhibit [Material Design 2](https://m2.material.io/design
   <img src="https://raw.githubusercontent.com/callbrok/MaterialComponents/master/app_image/snackBar.jpg" width="200" height="350" >
 
    <img src="https://raw.githubusercontent.com/callbrok/MaterialComponents/master/app_image/textField.jpg" width="200" height="350" >
+
+   <img src="https://raw.githubusercontent.com/callbrok/MaterialComponents/master/app_image/more.jpg" width="200" height="350" >
 </p>
 
 
