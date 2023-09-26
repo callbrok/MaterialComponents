@@ -8,7 +8,17 @@ Android application to exhibit [Material Design 2](https://m2.material.io/design
 ## Demo
 
 
+<p float="center">
+  <img src="https://raw.githubusercontent.com/callbrok/MaterialComponents/master/app_image/appBarBottom.jpg" width="200" height="350" >
 
+  <img src="https://raw.githubusercontent.com/callbrok/MaterialComponents/master/app_image/selectionControl.jpg" width="200" height="350" >
+
+   <img src="https://raw.githubusercontent.com/callbrok/MaterialComponents/master/app_image/picker.jpg" width="200" height="350" >
+
+  <img src="https://raw.githubusercontent.com/callbrok/MaterialComponents/master/app_image/snackBar.jpg" width="200" height="350" >
+
+   <img src="https://raw.githubusercontent.com/callbrok/MaterialComponents/master/app_image/textField.jpg" width="200" height="350" >
+</p>
 
 
 ## Authors
